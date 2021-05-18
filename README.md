@@ -1,0 +1,1 @@
+# marco-automation-service-core
